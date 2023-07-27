@@ -1,0 +1,3 @@
+.icon-button-wrapper button:focus {
+    outline: none;
+}
