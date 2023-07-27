@@ -1,4 +1,4 @@
-# --------------------------------------------------BikeService_Application-----------------------------------------------------
+# -------------BikeService_Application----------------------
 
 # 1. Install the frontend dependencies
 cd frontend
@@ -26,10 +26,16 @@ npm install
     npm start
     // access the backend on: 'http://localhost:3000'
 
-# 5. Data base schema design
+# 5. To access Admin
+    url: '/admin'
+  # for login 
+    email:'admin@gmail.com'
+    password:'12345'
+
+# 6. Data base schema design
     url : https://drive.google.com/file/d/1XuT-MgZRH97JDPcNQ_W--krqgeQVPMka/view?usp=sharing
 
-# 6. Sample Data
+# 7. Sample Data
     url : https://drive.google.com/drive/folders/1kucJNxRzgn1WTpAVP1XliwD6OTUc6ZiU?usp=drive_link
 
 
