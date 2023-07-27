@@ -30,7 +30,7 @@ npm install
     url : https://drive.google.com/file/d/1XuT-MgZRH97JDPcNQ_W--krqgeQVPMka/view?usp=sharing
 
 # 6. Sample Data
-    url : https://drive.google.com/drive/folders/1kucJNxRzgn1WTpAVP1XliwD6OTUc6ZiU?usp=drive_link
+    url : "https://drive.google.com/drive/folders/1kucJNxRzgn1WTpAVP1XliwD6OTUc6ZiU?usp=drive_link"
 
 
 
